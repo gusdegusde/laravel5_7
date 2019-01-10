@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 5.7.12 Tes Gusde
+                    Laravel 5.7.12
                 </div>
 
                 <div class="links">
